@@ -2,4 +2,4 @@
 
 ### sticky note(s) for anyone interested in helping:
 
-Most programs are done with Golang because there's usually no toolchain or extra libraries or required unless you specify them, and a version from March 2022 can still compile to the old kernel used. That said, this version is **1.17**, and **1.18 will compile binaries that are incompatible with the TerminalWars kernel. You need Go 1.17 specifically, so please make sure you have a second (or main) Golang install at this version**
+Most programs are done with Golang because there's usually no toolchain or extra libraries that are required unless you specify them (i.e. libpng or gtk), and a version from March 2022 can still compile to the old kernel used. That said, this version is **1.17**, and **1.18 will compile binaries that are incompatible with the TerminalWars kernel. You need Go 1.17 specifically, so please make sure you have a second (or main) Golang install at this version**
